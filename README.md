@@ -1,6 +1,5 @@
-# fire_detection
-custom object detection using YOLO V2
+# Fire detection
 
-use the cfg file uploaded to detect the object which is custom trained with 130 images (100 epochs)
+Custom object detection using YOLO V2: trained with 130 images (100 epochs) using a cfg file. 
 
 
